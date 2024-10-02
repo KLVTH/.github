@@ -1,6 +1,5 @@
-# KLVTH
 
-### Grupo de trabalhos - SENAI Dendezeiros - Turma 85366
+## Grupo de trabalhos - SENAI Dendezeiros - Turma 85366
 ### Líder de Projeto: 
 * KAUÃ OLIVEIRA SEIXAS 
 ### Componentes
